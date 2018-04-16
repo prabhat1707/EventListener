@@ -51,7 +51,7 @@ implement Updatable<DataWrapper<ObjectClass>> :
     //  objectDataWrapper.getObject return your modelClass
 
 ````
-- if default is
+- default is
 
 ````
 implements Updatable<DataWrapper>
