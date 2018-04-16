@@ -87,6 +87,12 @@ implements Updatable<DataWrapper>
 
 3. EventListener.getInstance().post(modelClass, "From Fragment"); // with data also
 
+#### Bugs, Feature requests
+
+Found a bug? Something that's missing? Feedback is an important part of improving the project, so please,
+
+<a href="https://github.com/prabhat1707/EventListener/issues/new">open an issue</a>
+
 ###### This library is very simple and smaller the other just try it !
 
 Thank You..
