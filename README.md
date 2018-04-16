@@ -1,5 +1,6 @@
 # EventListener
 EventListener is small library and is used for communication between classes like broadcaste signals
+No Need to maintain listener reference. It auto work with app lifecycle.
 
 # Prerequisites
 - Android 14
