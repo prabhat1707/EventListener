@@ -63,6 +63,4 @@ public class MainActivity extends AppCompatActivity implements Updatable<DataWra
         super.onDestroy();
         EventListener.getInstance().unregisterListener(this);
     }
-
-
 }
