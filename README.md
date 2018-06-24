@@ -20,8 +20,8 @@ allprojects {
 ## Step 2:- Add the dependency:
 ````
 
-		dependencies {
-	        compile 'com.github.prabhat1707:EventListener:1.0'
+	dependencies {
+	        implementation 'com.github.prabhat1707:EventListener:1.0'
 	}
 	
   
